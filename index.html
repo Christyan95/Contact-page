@@ -1,0 +1,89 @@
+<Html>
+
+<head>
+    <title>Formulário de contato</title>
+</head>
+
+<body>
+    <style>
+        {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            background-color: #563A88;
+        }
+        
+        form {
+            background-color: white;
+            max-width: 500px;
+            width: 300px;
+            padding: 40px;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
+        form h3 {
+            text-align: certer;
+            color: #563A88;
+        }
+        
+        form input[type=text] {
+            width: 100%;
+            height: 45%;
+            border: 1px solid #ccc;
+            padding-left: 10px;
+            margin: 10px 0;
+        }
+        
+        form input[type=submit] {
+            width: 100%;
+            height: 40px;
+            cursor: pointer;
+            background-color: #563A88;
+            color: white;
+            border: 0;
+            border-radius: 20px;
+            transition: 1s;
+        }
+        
+        form input[type=submit]:hover {
+            <background-color: blue;
+        }
+    </style>
+</body>
+
+
+<body>
+
+    <form>
+        <h3>
+            <p>Olá, me chamo Juliana. Precisa de ajuda? </p>
+            <p>Entre em contato, estamos a disposição para ajuda-lo :)</p>
+        </h3>
+
+        <input type="text" name="nome" placeholder="Como se chama?" />
+        <input id="email" type="text" name="email" placeholder="Digite seu e-mail, por favor." />
+        <input type="submit" nome="acao" volue="Click aqui para enviar" />
+
+    </form>
+
+    <script>
+        var email = document.getElementById("email");
+
+        email.addEventListener("focus", () => {
+            email.style.borderColor = "blue";
+        });
+
+        email.addEventListener("blur", () => {
+            email.style.borderColor = "blue";
+        });
+    </script>
+
+</body>
+
+</html>

@@ -10,7 +10,7 @@ Algumas das tecnologias utilizadas foram: HTML e CSS.
 
 Você pode abrir o website através do link abaixo.
 
-<a href="https://techjuliana.github.io/paginaLogin/"" alt="">Clique aqui</a>
+<a href="https://techjuliana.github.io/paginaLogin/" alt="">Clique aqui</a>
 <!-- `https://techjuliana.github.io/paginaLogin/` -->
 
  

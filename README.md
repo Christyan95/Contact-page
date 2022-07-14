@@ -1,21 +1,20 @@
 <h1 align="center">
-  Página de Contato
+  Contact page
 </h1>
 
-## Technologies
+## Tech
 
-Algumas das tecnologias utilizadas foram: HTML e CSS.
+HTML e CSS.
 
-## 🔔 Getting started
+## 🔔 Started
 
 Você pode abrir o website através do link abaixo.
 
 <a href="https://techjuliana.github.io/paginaLogin/" alt="">Clique aqui</a>
 <!-- `https://techjuliana.github.io/paginaLogin/` -->
 
- 
-## Autor
 ---
+## Tech Juliana
 
 <a href="https://www.linkedin.com/in/techjuliana">
  <!-- <img style="border-radius: 50%;" src="" width="100px;" alt=""/> -->
@@ -28,6 +27,5 @@ Elaborado por Juliana Bitencourt
 
 
  <div> 
-  <a href = "mailto:techjuliana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/techjuliana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
